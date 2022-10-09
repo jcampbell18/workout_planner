@@ -1,2 +1,2 @@
 # workout_planner
-wokrout planner
+workout planner
